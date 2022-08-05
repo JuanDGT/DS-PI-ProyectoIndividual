@@ -1,0 +1,12 @@
+Para este proyecto se requieren las siguientes librerias:
+1.  numpy
+2.  pandas
+3.  requests
+4.  seaborn
+5.  matplotlib
+6.  datetime
+7.  dateutil
+8.  sci-kit learn
+
+sino se tienen se pueden instalar con el comando:
+$ pip install nombre_de_la_libreria
